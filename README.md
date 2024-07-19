@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asimo2020
 - 👀 I’m interested in python proramming
-- 🌱 I’m currently learning advanced python
+- 🌱 I’m currently learning django
 - 📫 How to reach me ghahramani89@gmail.com
 
 <!---
